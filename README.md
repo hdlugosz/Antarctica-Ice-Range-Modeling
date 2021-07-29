@@ -24,7 +24,7 @@ Model rozszerzony:
 
 Wykres prezentujący minimalny zakres pokrywy lodowej:
 
-![Alt text](charts/minimalIceRange.png?raw=true "Title")
+![Alt text](sampleRes/minimalIceRange.png?raw=true "Title")
 
 Przykładowe wykresy (odpowiednio zasięg rzeczywisty, model uproszczony oraz porównanie):
 
